@@ -1,2 +1,0 @@
-# gcoin
-tenserflow
